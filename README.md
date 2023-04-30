@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://exweiv.editorx.io/enes-tests/_functions/getImage"></img>
+<img src="https://exweiv.editorx.io/enes-tests/_functions/getImage" loading="lazy">
 
 <!--
 **l0eix/l0eix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
