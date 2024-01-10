@@ -2,7 +2,7 @@
 
 📫 enes@exweiv.com
 
-[🎵 Dümenden Liste](https://open.spotify.com/embed/playlist/5F3omCSAfHvCNifbczCxxL?utm_source=generator&theme=0)
+[🎵 Spotify](https://open.spotify.com/user/2687a33sqfu100zw0yjegtop6?si=d1d5ac64db9245bb)
 
 <!--
 **l0eix/l0eix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
